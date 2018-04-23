@@ -1,0 +1,2372 @@
+random_seed:  100
+debug:  True
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  False
+unet unet_batch_norm:  True
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  32
+print_every:  10
+save_model_every:  100
+validation_every:  10
+crop_size:  224
+predict:  False
+lr_decay_every:  100
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  32
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00006499_model.pth
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00006499_model.pth
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00006499_model.pth
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00006499_model.pth
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00006499_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00006499_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00006499_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00006499_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00006499_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00006499_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00006499_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00006499_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00006499_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00006499_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00006499_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00006499_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  True
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  True
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  True
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  True
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  True
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  True
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  True
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  True
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  True
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  100
+validation_every:  1
+crop_size:  256
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  False
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  False
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+gpu:  False
+epoch     0	| step     9	| loss_train 0.70167	| loss_val 0.00000	| lr 0.00100	| time 129.73236 
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  False
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  False
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  False
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  False
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+gpu:  False
+epoch     0	| step     9	| loss_train 0.70328	| loss_val 0.00000	| lr 0.00100	| time 133.13096 
+epoch     0	| step    19	| loss_train 0.68756	| loss_val 0.00000	| lr 0.00100	| time 113.69814 
+epoch     0	| step    29	| loss_train 0.62984	| loss_val 0.00000	| lr 0.00100	| time 80.61790 
+epoch     0	| step    39	| loss_train 0.65443	| loss_val 0.00000	| lr 0.00100	| time 80.57278 
+epoch     0	| step    49	| loss_train 0.61155	| loss_val 0.00000	| lr 0.00100	| time 77.73327 
+epoch     0	| step    59	| loss_train 0.58095	| loss_val 0.00000	| lr 0.00100	| time 70.73535 
+epoch     0	| step    69	| loss_train 0.55825	| loss_val 0.00000	| lr 0.00100	| time 100.07357 
+epoch     0	| step    79	| loss_train 0.53447	| loss_val 0.00000	| lr 0.00100	| time 77.53284 
+epoch     0	| step    89	| loss_train 0.55284	| loss_val 0.00000	| lr 0.00100	| time 77.23571 
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  model_saved.pt
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  model_saved.pt
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  model_saved.pt
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  model_saved.pt
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  model_saved.pt
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  model_saved.pt
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  model_saved.pt
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  model_saved.pt
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  model_saved.pt
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  64
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  model_saved.pt
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  32
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  model_saved.pt
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  32
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  model_saved.pt
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  32
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  model_saved.pt
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  32
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  model_saved.pt
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  32
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  model_saved.pt
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  32
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  model_saved.pt
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  32
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  model_saved.pt
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  32
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  model_saved.pt
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  32
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  model_saved.pt
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  False
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  32
+print_every:  10
+save_model_every:  10
+validation_every:  1
+crop_size:  224
+predict:  False
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+gpu:  False
+epoch     0	| step     9	| loss_train 0.76424	| loss_val 0.00000	| lr 0.00100	| time 17.32435 
+epoch     0	| step    19	| loss_train 0.74274	| loss_val 0.00000	| lr 0.00100	| time 21.32011 
+epoch     0	| step    29	| loss_train 0.70892	| loss_val 0.00000	| lr 0.00100	| time 21.67527 
+epoch     0	| step    39	| loss_train 0.67077	| loss_val 0.00000	| lr 0.00100	| time 20.43333 
+epoch     0	| step    49	| loss_train 0.66749	| loss_val 0.00000	| lr 0.00100	| time 19.62531 
+epoch     0	| step    59	| loss_train 0.62259	| loss_val 0.00000	| lr 0.00100	| time 18.00991 
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  32
+print_every:  10
+save_model_every:  10
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00000059_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  32
+print_every:  10
+save_model_every:  10
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00000059_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  32
+print_every:  10
+save_model_every:  10
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00000059_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  32
+print_every:  10
+save_model_every:  10
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00000059_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  32
+print_every:  10
+save_model_every:  10
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00000059_model.pth
+models loaded!:  
+gpu:  False
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  32
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
+random_seed:  100
+debug:  False
+batch size:  1
+num_classes:  2
+output_dir:  results
+models:  unet
+learning_rate:  0.001
+optimizer:  sgd
+load_model:  True
+unet unet_batch_norm:  False
+unet_use_dropout:  False
+unet_dropout_rate:  None
+unet_channels:  32
+print_every:  10
+save_model_every:  500
+validation_every:  1
+crop_size:  224
+predict:  True
+lr_decay_every:  10000
+lr_decay_ratio:  0.5
+is_auto_adjust_rate:  True
+lr_adjust_every:  1000
+training set:  train1_ids_gray2_500
+loading models from file:  00029999_model.pth
