@@ -25,12 +25,15 @@ to train the model on training set.
 
 The model is saved every 500 iterations. Make sure to load the latest model when make prediction on test images.  
 
-The training/validation images need to be download under data/train. 
+The training/validation images need to be updated under data/train. 
 
-After training on training image sets, the model can make predictions on the testing data. 
-The test images need to be download under data/test
+
 
 # Prediction
+
+After training on training image sets, the model can make predictions on the testing data. 
+The test images need to be updated under data/test
+
 Run 
 ```
 main.py --predict --load_model --initial_checkpoint your_model_name --out_dir prediction_loc 
