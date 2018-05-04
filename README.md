@@ -39,10 +39,10 @@ Run
 main.py --predict --load_model --initial_checkpoint your_model_name --out_dir prediction_loc 
 ```
 to predict testing data with trained model. 
-- [`--predict`](appconf.html#predict)              - enable prediction on loaded model
-- [`--load_model`](appconf.html#load_model)              - load existing model as initial checkpoint or for prediction
-- [`--initial_checkpoint`](appconf.html#initialcheckpoint)              - model name
-- [`--initial_checkpoint`](appconf.html#outdir)              - prediction saving directory
+- [`--predict`](appconf.html#predict) - enable prediction on loaded model
+- [`--load_model`](appconf.html#load_model) - load existing model as initial checkpoint or for prediction
+- [`--initial_checkpoint`](appconf.html#initialcheckpoint) - model name
+- [`--initial_checkpoint`](appconf.html#outdir) - prediction saving directory
 
 Examples of applying a well-trained model on testing images: 
 
