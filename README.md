@@ -29,7 +29,7 @@ The training/validation images need to be updated under data/train.
 
 
 
-# Prediction
+# Predict
 
 After training on training image sets, the model can make predictions on the testing data. 
 The test images need to be updated under data/test
